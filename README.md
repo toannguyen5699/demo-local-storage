@@ -1,0 +1,1 @@
+This project is demo how to use local-storage
